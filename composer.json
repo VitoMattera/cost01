@@ -1,0 +1,10 @@
+{
+    "name": "vitomattera/cost01",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Vitomattera\\Cost01\\": "src/"
+        }
+    },
+    "require": {}
+}
